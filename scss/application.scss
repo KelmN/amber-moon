@@ -148,9 +148,11 @@ h3 {
   font-weight: 800;
   vertical-align: baseline;
   line-height: 1.45;
+  letter-spacing: 0.1em;
 
   @media #{$brk-fixed} {
     font-size: 28px;
+ 
   }
 
   @media #{$brk-fluid} {
