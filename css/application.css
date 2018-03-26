@@ -685,7 +685,9 @@ h3 {
   text-transform: uppercase;
   font-weight: 800;
   vertical-align: baseline;
-  line-height: 1.45; }
+  line-height: 1.45;
+  letter-spacing: 3px;
+}
   @media (min-width: 1408px) {
     h3 {
       font-size: 28px; } }
